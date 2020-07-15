@@ -1,2 +1,3 @@
-# bitrix_webp
-Класс для генерирования картинок в WebP на лету из jpg, pn
+Метод getInstance возращает html код картинки WebP
+---
+Метод getInstanceSrc возращает путь к картинке WebP от корня сайта
